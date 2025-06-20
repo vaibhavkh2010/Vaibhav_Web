@@ -1,1 +1,29 @@
 # Vaibhav_Web
+<!DOCTYPE html>Add commentMore actions
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Google Form</title>
+   <link rel="stylesheet" href="Vaibhav Web Work.css">
+</head>
+<body background="E:\Data Recovery\Vaibhav\Html Work\Web development Course\First Website\background photo\Home page.jfif">
+<img src="E:\Data Recovery\Vaibhav\Photo\logo.png" height="100" width="100">
+  <nav>
+    <div class="logo">Vaibhav.K.H</div>
+    <ul class="nav-links">
+      <li><a href="About.html">Home</a></li>
+      <li><a href="Form.html">Services</a></li>
+      <li><a href="Contact.html">Contact</a></li>
+    </ul>
+  </nav>
+<main>
+    <h3>This is home page</h3>
+    <br>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Excepturi rerum maxime mollitia voluptatum nemo omnis. Amet voluptatibus eum autem earum, exercitationem tenetur quia quas error sapiente atque possimus dicta alias eaque quidem vitae sed nesciunt dolores dolor, nemo explicabo ipsa maxime! Excepturi dignissimos dolor illo quis deleniti rerum eum nulla?</p>
+</main>
+<footer>
+    <p>Contact us: Vaibhavhalder@Gmail.com | +91 9897099997</p>
+</footer>
+</body>
+</html>
